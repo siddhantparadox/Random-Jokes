@@ -48,6 +48,9 @@ h1 {
 h1 b {
   font-weight: 700;
 }
+p {
+  font-size:small;
+}
 footer {
   position: absolute;
   text-align: center;
